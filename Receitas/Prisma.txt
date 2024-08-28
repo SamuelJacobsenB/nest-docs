@@ -1,1 +1,2 @@
 Aprendendo o que fazer para usar o Prisma no NestJS.
+Conectando o Prisma por meio de Módulos além de usar Migrates em TABLES.

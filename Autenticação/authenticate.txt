@@ -4,3 +4,4 @@ Aprendendo sobre algoritmos de Criptografia e Hash.
 Continuando com hashing de senhas.
 Procurando usuários.
 Criando módulo de autenticação.
+Criando pasta guards e pasta strategies.

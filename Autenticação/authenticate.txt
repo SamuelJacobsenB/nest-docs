@@ -1,3 +1,4 @@
 Aprendendo sobre autenticação.
 Continuando aprendendo mais sobre autenticação.
 Aprendendo sobre algoritmos de Criptografia e Hash.
+Continuando com hashing de senhas.

@@ -6,3 +6,4 @@ Procurando usuários.
 Criando módulo de autenticação.
 Criando pasta guards e pasta strategies.
 Criando um guard e um local strategy.
+Implementando a validação local.
